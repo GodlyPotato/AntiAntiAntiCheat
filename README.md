@@ -1,4 +1,3 @@
-# AntiAntiAntiCheat
 <img src="Screenshot%20(2).png" />
 
 A highly customizable anticheat plugin for minecraft servers.
